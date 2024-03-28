@@ -10,7 +10,7 @@ const Home = () => {
             <header>
               <div className="container">
                 <div id="branding">
-                  <h1><span class="highlight">Synthetic</span> Systems</h1>
+                  <h1><span class="highlight">Go Blue</span> Ocean Clean-Up</h1>
                 </div>
                 <nav>
                   <u1>
@@ -24,7 +24,7 @@ const Home = () => {
 
       <section id="showcase">
         <div className="container">
-          <h1>Somewhat Affordable & Professional System Developers</h1>
+          <h1>Affordable Options To Support Ocean Clean-Up</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus et augue vitae iaculis. Suspendisse fringilla ex ut odio ultrices, vel aliquam nulla mollis.</p>
         </div>
       </section>
@@ -42,30 +42,30 @@ const Home = () => {
       <section id="boxes">
         <div className="container">
                     <div className="box">
-                      <Image src="/img/logo_brush.png" alt="Employee Education" width={400}
+                      <Image src="/img/cleanup.jpg" alt="Clean-Up Options" width={400}
       height={100} />  {/* Added alt text for accessibility */}
-                      <h3>Employee Education</h3>
+                      <h3>Clean-Up Options</h3>
                       <p>Nam in dignissim augue, at vestibulum lacus. Donec scelerisque nec risus quis lobortis.</p>
                     </div>
 
           <div className="box">
-          <Image src="/img/logo_css.png" alt="Customer Support" width={400}
+          <Image src="/img/donate.png" alt="Donate Now" width={400}
       height={100} />  {/* Added alt text for accessibility */}
-            <h3>Application Help</h3>
+            <h3>Donate Now</h3>
             <p>Nam in dignissim augue, at vestibulum lacus. Donec scelerisque nec risus quis lobortis.</p>
           </div>
 
           <div className="box">
-            <Image src="/img/logo_html.png" alt="System Troubleshooting" width={400}
+            <Image src="/img/turtle.png" alt="Save Our Ocean" width={400}
       height={100} />  {/* Added alt text for accessibility */}
-            <h3>System Troubleshooting</h3>
+            <h3>Save Our Ocean</h3>
             <p>Nam in dignissim augue, at vestibulum lacus. Donec scelerisque nec risus quis lobortis.</p>
           </div>
         </div>
       </section>
 
       <footer>
-        <p>Synthetic Systems, Copyright &copy; 2024</p>
+        <p>Go Blue Ocean Clean-Up, Copyright &copy; 2024</p>
       </footer>
     </div>
   );

@@ -9,7 +9,7 @@ const About = () => {
       <header>
         <div className="container">
           <div id="branding">
-            <h1><span class="highlight">Synthetic</span> Systems</h1>
+            <h1><span class="highlight">Go Blue</span> Ocean Clean-Up</h1>
           </div>
           <nav>
             <u1>
@@ -60,7 +60,7 @@ const About = () => {
       </section>
 
       <footer>
-        <p>Synthetic Systems, Copyright &copy; 2024</p>
+        <p>Go Blue Ocean Clean-Up, Copyright &copy; 2024</p>
       </footer>
     </div>
   );

@@ -8,7 +8,7 @@ const Services = () => {
             <header>
               <div className="container">
                 <div id="branding">
-                  <h1><span class="highlight">Synthetic</span> Systems</h1>
+                  <h1><span class="highlight">Go Blue</span> Ocean Clean-up</h1>
                 </div>
                 <nav>
                   <u1>
@@ -36,32 +36,32 @@ const Services = () => {
             <h1 class="page-title">Services</h1>
             <ul id="services">
               <li>
-                <h3>Employee Training Chatbots</h3>
+                <h3> Join a Volunteer Service.</h3>
                 <p>
                   In pharetra dolor quis diam ornare sodales. Pellentesque id mauris eu leo mattis ultricies a tincidunt enim. Nunc bibendum ac tellus ut dignissim. Fusce vulputate eros sed turpis venenatis dictum. Ut ultricies, libero id mattis volutpat, purus dui efficitur urna, ac aliquet erat mauris vel quam. Duis ultrices eros non velit suscipit, quis porta ex hendrerit.
                 </p>
-                <p>Data Wrangling Services</p>
+                <p>Times and Dates will vary.</p>
               </li>
               <li>
-                <h3>Custoemr Service Chatbots</h3>
+                <h3> Purchase a Recycled Bracelet</h3>
                 <p>
                   In pharetra dolor quis diam ornare sodales. Pellentesque id mauris eu leo mattis ultricies a tincidunt enim. Nunc bibendum ac tellus ut dignissim. Fusce vulputate eros sed turpis venenatis dictum. Ut ultricies, libero id mattis volutpat, purus dui efficitur urna, ac aliquet erat mauris vel quam. Duis ultrices eros non velit suscipit, quis porta ex hendrerit.
                 </p>
-                <p>Generative AI Help Systems</p>
+                <p>Pricing: $12 US</p>
               </li>
               <li>
-                <h3>System Troubleshooting Chatbots</h3>
+                <h3> Look at Our Locations</h3>
                 <p>
                   In pharetra dolor quis diam ornare sodales. Pellentesque id mauris eu leo mattis ultricies a tincidunt enim. Nunc bibendum ac tellus ut dignissim. Fusce vulputate eros sed turpis venenatis dictum. Ut ultricies, libero id mattis volutpat, purus dui efficitur urna, ac aliquet erat mauris vel quam. Duis ultrices eros non velit suscipit, quis porta ex hendrerit.
                 </p>
-                <p>Cloud, On-Prem, and Hybrid Configurations</p>
+                <p>Current Locations: Hawaii, Rhode Island, California, and Florida</p>
               </li>
             </ul>
           </article>
 
           <aside id="sidebar">
             <div className="dark">
-              <h3>Get A Quote</h3>
+              <h3>Sign Up Today To Volunteer</h3>
               <form className="quote">
                 <div>
                   <label>Name</label><br />
@@ -83,7 +83,7 @@ const Services = () => {
       </section>
 
       <footer>
-        <p>Synthetic Systems, Copyright &copy; 2024</p>
+        <p>Go Blue Ocean Clean-Up, Copyright &copy; 2024</p>
       </footer>
     </div>
   );
