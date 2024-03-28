@@ -1,5 +1,5 @@
 import React from 'react';
-/*import './index.css'; */
+import './index.css'; 
 import '../app/globals.css';
 import Link from 'next/link';
 import Image from 'next/image';
