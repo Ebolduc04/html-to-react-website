@@ -90,7 +90,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 400px;
-    background:url('/img/water.jpg') no-repeat 0 -400px;
+    background:url('/img/water.jpeg') no-repeat 0 -300px;
     text-align:center;
     color:#ffffff;
   }
